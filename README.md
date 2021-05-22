@@ -11,4 +11,4 @@ The projects will include the following topics:
 8. Covid-19 analysis 
 9. Project using Titanic Dataset
 10. K-Means Clustering
-11. Sales Price Insights Analysis
+
